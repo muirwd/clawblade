@@ -23,6 +23,12 @@ header {
     flex: 1;
 }
 
+.contact {
+    background-color: #efefef;
+    padding: 32px;
+    flex: 1;
+}
+
 footer {
     padding: 32px;
     background-color: #222;
