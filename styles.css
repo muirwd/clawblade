@@ -29,6 +29,11 @@ header {
     flex: 1;
 }
 
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
 footer {
     padding: 32px;
     background-color: #222;
